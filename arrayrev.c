@@ -11,7 +11,7 @@ void arrayrev(int arry[], int arr[])
 int main()
 {
     int arr[9];
-    int arry[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+    int arry[] = {1, 2, 3, 4, 5, 6, 7, 8, 9}; //array to  be reversed.
     arrayrev(arry, arr);
 
     return 0;
